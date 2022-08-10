@@ -2,6 +2,10 @@
 商店后台管理系统
 
 *详情在PNG文件中*
-
-推荐使用element-ui:\
+### 使用第三方插件:
+element-ui:\
 https://element-plus.gitee.io/zh-CN/
+
+axios文档:\
+https://axios-http.com/docs/intro
+
